@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/gursimranjit1196/static/css/main.f7419275.chunk.css",
-    "main.js": "/gursimranjit1196/static/js/main.03e923da.chunk.js",
-    "main.js.map": "/gursimranjit1196/static/js/main.03e923da.chunk.js.map",
-    "runtime-main.js": "/gursimranjit1196/static/js/runtime-main.d1bb313a.js",
-    "runtime-main.js.map": "/gursimranjit1196/static/js/runtime-main.d1bb313a.js.map",
-    "static/js/2.3756b644.chunk.js": "/gursimranjit1196/static/js/2.3756b644.chunk.js",
-    "static/js/2.3756b644.chunk.js.map": "/gursimranjit1196/static/js/2.3756b644.chunk.js.map",
-    "index.html": "/gursimranjit1196/index.html",
-    "precache-manifest.ca86197cc2ac934ddcf37df610b8cf05.js": "/gursimranjit1196/precache-manifest.ca86197cc2ac934ddcf37df610b8cf05.js",
-    "service-worker.js": "/gursimranjit1196/service-worker.js",
-    "static/css/main.f7419275.chunk.css.map": "/gursimranjit1196/static/css/main.f7419275.chunk.css.map",
-    "static/media/AWS-SolArchitect-Associate.png": "/gursimranjit1196/static/media/AWS-SolArchitect-Associate.c041404a.png",
-    "static/media/index.css": "/gursimranjit1196/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/contactMail.png": "/gursimranjit1196/static/media/contactMail.d6d4086f.png",
-    "static/media/developerActivity.svg": "/gursimranjit1196/static/media/developerActivity.59389695.svg",
-    "static/media/me.jpeg": "/gursimranjit1196/static/media/me.6dcc9bda.jpeg"
+    "main.css": "/gursimranjit1196.github.io/static/css/main.f15c757d.chunk.css",
+    "main.js": "/gursimranjit1196.github.io/static/js/main.03e923da.chunk.js",
+    "main.js.map": "/gursimranjit1196.github.io/static/js/main.03e923da.chunk.js.map",
+    "runtime-main.js": "/gursimranjit1196.github.io/static/js/runtime-main.b0c7c1be.js",
+    "runtime-main.js.map": "/gursimranjit1196.github.io/static/js/runtime-main.b0c7c1be.js.map",
+    "static/js/2.3756b644.chunk.js": "/gursimranjit1196.github.io/static/js/2.3756b644.chunk.js",
+    "static/js/2.3756b644.chunk.js.map": "/gursimranjit1196.github.io/static/js/2.3756b644.chunk.js.map",
+    "index.html": "/gursimranjit1196.github.io/index.html",
+    "precache-manifest.d955bb952d07c3dd5a68f81024838b9a.js": "/gursimranjit1196.github.io/precache-manifest.d955bb952d07c3dd5a68f81024838b9a.js",
+    "service-worker.js": "/gursimranjit1196.github.io/service-worker.js",
+    "static/css/main.f15c757d.chunk.css.map": "/gursimranjit1196.github.io/static/css/main.f15c757d.chunk.css.map",
+    "static/media/AWS-SolArchitect-Associate.png": "/gursimranjit1196.github.io/static/media/AWS-SolArchitect-Associate.c041404a.png",
+    "static/media/index.css": "/gursimranjit1196.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.png": "/gursimranjit1196.github.io/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/gursimranjit1196.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/me.jpeg": "/gursimranjit1196.github.io/static/media/me.6dcc9bda.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1bb313a.js",
+    "static/js/runtime-main.b0c7c1be.js",
     "static/js/2.3756b644.chunk.js",
-    "static/css/main.f7419275.chunk.css",
+    "static/css/main.f15c757d.chunk.css",
     "static/js/main.03e923da.chunk.js"
   ]
 }

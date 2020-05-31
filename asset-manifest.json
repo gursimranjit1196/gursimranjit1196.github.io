@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b45e7396.chunk.css",
-    "main.js": "/static/js/main.03e923da.chunk.js",
-    "main.js.map": "/static/js/main.03e923da.chunk.js.map",
+    "main.js": "/static/js/main.98059cda.chunk.js",
+    "main.js.map": "/static/js/main.98059cda.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.43b088e3.js",
     "runtime-main.js.map": "/static/js/runtime-main.43b088e3.js.map",
-    "static/js/2.3756b644.chunk.js": "/static/js/2.3756b644.chunk.js",
-    "static/js/2.3756b644.chunk.js.map": "/static/js/2.3756b644.chunk.js.map",
+    "static/js/2.31f394fb.chunk.js": "/static/js/2.31f394fb.chunk.js",
+    "static/js/2.31f394fb.chunk.js.map": "/static/js/2.31f394fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.50cf776ce35bc380c967740226cfc9b7.js": "/precache-manifest.50cf776ce35bc380c967740226cfc9b7.js",
+    "precache-manifest.33f5d5e38a77a1988b4ca3a52a37e7f1.js": "/precache-manifest.33f5d5e38a77a1988b4ca3a52a37e7f1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b45e7396.chunk.css.map": "/static/css/main.b45e7396.chunk.css.map",
     "static/media/AWS-SolArchitect-Associate.png": "/static/media/AWS-SolArchitect-Associate.c041404a.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.43b088e3.js",
-    "static/js/2.3756b644.chunk.js",
+    "static/js/2.31f394fb.chunk.js",
     "static/css/main.b45e7396.chunk.css",
-    "static/js/main.03e923da.chunk.js"
+    "static/js/main.98059cda.chunk.js"
   ]
 }

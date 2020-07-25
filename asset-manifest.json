@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.b45e7396.chunk.css",
-    "main.js": "/static/js/main.98059cda.chunk.js",
-    "main.js.map": "/static/js/main.98059cda.chunk.js.map",
+    "main.js": "/static/js/main.ad87015a.chunk.js",
+    "main.js.map": "/static/js/main.ad87015a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.43b088e3.js",
     "runtime-main.js.map": "/static/js/runtime-main.43b088e3.js.map",
     "static/js/2.31f394fb.chunk.js": "/static/js/2.31f394fb.chunk.js",
     "static/js/2.31f394fb.chunk.js.map": "/static/js/2.31f394fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.33f5d5e38a77a1988b4ca3a52a37e7f1.js": "/precache-manifest.33f5d5e38a77a1988b4ca3a52a37e7f1.js",
+    "precache-manifest.d4057befdadc906251ace4fab09d2ec3.js": "/precache-manifest.d4057befdadc906251ace4fab09d2ec3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b45e7396.chunk.css.map": "/static/css/main.b45e7396.chunk.css.map",
+    "static/media/AWS-Developer-Associate-badge.png": "/static/media/AWS-Developer-Associate-badge.2e182e05.png",
     "static/media/AWS-SolArchitect-Associate.png": "/static/media/AWS-SolArchitect-Associate.c041404a.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
@@ -21,6 +22,6 @@
     "static/js/runtime-main.43b088e3.js",
     "static/js/2.31f394fb.chunk.js",
     "static/css/main.b45e7396.chunk.css",
-    "static/js/main.98059cda.chunk.js"
+    "static/js/main.ad87015a.chunk.js"
   ]
 }

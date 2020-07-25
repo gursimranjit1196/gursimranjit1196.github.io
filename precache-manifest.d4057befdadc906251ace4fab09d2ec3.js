@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d533275cc0b835e3635abb84d256e90f",
+    "revision": "017de70763a8703765296688c1ee96a4",
     "url": "/index.html"
   },
   {
-    "revision": "77be54eefb745242efce",
+    "revision": "129eb6640217d60ae8c1",
     "url": "/static/css/main.b45e7396.chunk.css"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.31f394fb.chunk.js"
   },
   {
-    "revision": "77be54eefb745242efce",
-    "url": "/static/js/main.98059cda.chunk.js"
+    "revision": "129eb6640217d60ae8c1",
+    "url": "/static/js/main.ad87015a.chunk.js"
   },
   {
     "revision": "9791085f70fd01f54cc3",
     "url": "/static/js/runtime-main.43b088e3.js"
+  },
+  {
+    "revision": "2e182e05e6ee2a931d406349126a7ef9",
+    "url": "/static/media/AWS-Developer-Associate-badge.2e182e05.png"
   },
   {
     "revision": "c041404a08f53ac5636197bb94a81396",

@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7b9af3b.chunk.css",
-    "main.js": "/static/js/main.0883b449.chunk.js",
-    "main.js.map": "/static/js/main.0883b449.chunk.js.map",
+    "main.css": "/static/css/main.ebe430d9.chunk.css",
+    "main.js": "/static/js/main.f8d97723.chunk.js",
+    "main.js.map": "/static/js/main.f8d97723.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.43b088e3.js",
     "runtime-main.js.map": "/static/js/runtime-main.43b088e3.js.map",
     "static/js/2.31f394fb.chunk.js": "/static/js/2.31f394fb.chunk.js",
     "static/js/2.31f394fb.chunk.js.map": "/static/js/2.31f394fb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9d0895012bf48e84c2a5dff6f54c1693.js": "/precache-manifest.9d0895012bf48e84c2a5dff6f54c1693.js",
+    "precache-manifest.0c1877d5cb44fcaafebd9d8f2ffcec24.js": "/precache-manifest.0c1877d5cb44fcaafebd9d8f2ffcec24.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d7b9af3b.chunk.css.map": "/static/css/main.d7b9af3b.chunk.css.map",
+    "static/css/main.ebe430d9.chunk.css.map": "/static/css/main.ebe430d9.chunk.css.map",
     "static/media/AWS-Developer-Associate-badge.png": "/static/media/AWS-Developer-Associate-badge.2e182e05.png",
     "static/media/AWS-SolArchitect-Associate.png": "/static/media/AWS-SolArchitect-Associate.c041404a.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
-    "static/media/me.jpeg": "/static/media/me.6dcc9bda.jpeg"
+    "static/media/me.jpeg": "/static/media/me.21c961a2.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.43b088e3.js",
     "static/js/2.31f394fb.chunk.js",
-    "static/css/main.d7b9af3b.chunk.css",
-    "static/js/main.0883b449.chunk.js"
+    "static/css/main.ebe430d9.chunk.css",
+    "static/js/main.f8d97723.chunk.js"
   ]
 }
